@@ -1,4 +1,4 @@
-from multiprocessing.spawn import prepare
+
 
 temp_1 = float(input("Ingrese temperatura 1: "))
 temp_2 = float(input("Ingrese temperatura 2: "))
